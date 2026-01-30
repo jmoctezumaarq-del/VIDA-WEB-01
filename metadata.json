@@ -1,0 +1,7 @@
+{
+  "name": "VIDA Arquitectura & Paisajismo",
+  "description": "Estudio de arquitectura orgánica y paisajismo de vanguardia que integra estructura y naturaleza. Incluye un asistente visionario con IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
